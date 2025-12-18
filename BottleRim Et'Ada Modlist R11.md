@@ -143,7 +143,7 @@ These are the additions added, patched, made working within the stock modlist.
 
 #### [ Immersion ]
 [`Skyrim's Got Talent - Improve As a Bard`](https://www.nexusmods.com/skyrimspecialedition/mods/50357)  
-[`[NoDelete] Collision Dialogue Overhaul`](https://www.nexusmods.com/skyrimspecialedition/mods/132325) *NSFW version*  
+[`[NoDelete] Collision Dialogue Overhaul`](https://www.nexusmods.com/skyrimspecialedition/mods/132325)  
 [`[NoDelete] Collision Dialogue Overhaul - MCM`](https://www.nexusmods.com/skyrimspecialedition/mods/132325)  
 [`[NoDelete] Conditional Expressions Extended`](https://www.nexusmods.com/skyrimspecialedition/mods/91438)  
 [`[NoDelete] Dangerous Ingredients and How to Pick Them - OIF`](https://www.nexusmods.com/skyrimspecialedition/mods/151657)  
@@ -1003,4 +1003,5 @@ check out and see if I really want them in a modlist or not.
 665. The Mystic - Brelyna Maryon Replacer                                       https://www.nexusmods.com/skyrimspecialedition/mods/119677
 666. Leyrur Daelkhun - WeelBones' Luaffyn Replacer                              https://www.nexusmods.com/skyrimspecialedition/mods/127632
 667. Saadia - WeelBones' Overhaul                                               https://www.nexusmods.com/skyrimspecialedition/mods/153284
+
 
