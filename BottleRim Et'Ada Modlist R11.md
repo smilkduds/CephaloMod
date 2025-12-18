@@ -355,7 +355,7 @@ This is especially true for the follower section. Just want to populate the worl
 61. Dynamic Random Spell Idle                                                   https://www.nexusmods.com/skyrimspecialedition/mods/77025
 62. Frozen Electrocuted Combustion                                              https://www.nexusmods.com/skyrimspecialedition/mods/3532
 63. Immersive Illusion Spells                                                   https://www.nexusmods.com/skyrimspecialedition/mods/142357
-64. Light Magic VFX Edit
+64. Light Magic VFX Edit                                                        https://www.nexusmods.com/skyrimspecialedition/mods/151787
 65. Lost Grimoire SSE                                                           https://www.nexusmods.com/skyrimspecialedition/mods/4455
 66. Precision magic trails                                                      https://www.nexusmods.com/skyrimspecialedition/mods/120445
 67. Runemaster Magic                                                            https://www.nexusmods.com/skyrimspecialedition/mods/145420
@@ -1005,5 +1005,6 @@ Need to find some good generic basic male followers.
 665. The Mystic - Brelyna Maryon Replacer                                       https://www.nexusmods.com/skyrimspecialedition/mods/119677
 666. Leyrur Daelkhun - WeelBones' Luaffyn Replacer                              https://www.nexusmods.com/skyrimspecialedition/mods/127632
 667. Saadia - WeelBones' Overhaul                                               https://www.nexusmods.com/skyrimspecialedition/mods/153284
+
 
 
