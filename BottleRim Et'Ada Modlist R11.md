@@ -219,7 +219,7 @@ This is a collection of debugging mods to make finding and patching easier
 This is collection of all the item description mods I enjoy, one since mod entry.
 + Descriptions for Various Mods                                                 https://www.nexusmods.com/skyrimspecialedition/mods/106229
 + Creation Club Item Descriptions                                               https://www.nexusmods.com/skyrimspecialedition/mods/106048
-+ Description Framework for Headhunter                                          https://www.nexusmods.com/skyrimspecialedition/mods/97490?tab=files&file_id=447509&nmm=1
++ Description Framework for Headhunter                                          https://www.nexusmods.com/skyrimspecialedition/mods/97490
 + All Keys Descriptions                                                         https://www.nexusmods.com/skyrimspecialedition/mods/107094
 + All Books and Notes Descriptions                                              https://www.nexusmods.com/skyrimspecialedition/mods/107239
 + Scrolls Have Descriptions                                                     https://www.nexusmods.com/skyrimspecialedition/mods/107202
@@ -276,9 +276,8 @@ All the settings overrides for my taste over BottleRim.
 ---
 ---
 ## MODS TO WORK IN
-
-Not everything here will be R11, most have interested me, and they are here to 
-check out and see if I really want them in a modlist or not.
+Not everything here will be in R11, most have interested me, and they are here for me check out and see if I really want to add them in a modlist or not.  
+This is especially true for the follower section. Just want to populate the world more, have an idea similar to the 'enemy 2 follower' mod for enhancing these boring vanilla followers.
 
 #### Immersion!
 1. Pinecones                                                                    https://www.nexusmods.com/skyrimspecialedition/mods/120021
@@ -391,7 +390,7 @@ check out and see if I really want them in a modlist or not.
 94. Voice of Dawn                                                               https://www.nexusmods.com/skyrimspecialedition/mods/151429
 95. Zim's Immersive Artifacts                                                   https://www.nexusmods.com/skyrimspecialedition/mods/9138
 
-#### Clothing
+#### Clothing & Jewelry
 96. Abyss Dress                                                                 https://www.nexusmods.com/skyrimspecialedition/mods/104241
 97. Archmage Khadgar's Robes SE                                                 https://www.nexusmods.com/skyrimspecialedition/mods/32348
 98. Armor and Clothing Extension                                                https://www.nexusmods.com/skyrimspecialedition/mods/19002
@@ -586,7 +585,8 @@ check out and see if I really want them in a modlist or not.
 #### PBR
 282. Addidi PBR Textures                                                        https://next.nexusmods.com/profile/Addidi/mods?gameId=1704
 
-#### Body (ordered for clean install)
+#### Body
+This is ordered for a clean setup.
 283. Caliente's Beautiful Bodies Enhancer -CBBE-                                https://www.nexusmods.com/skyrimspecialedition/mods/198
 284. CBBE 3BA                                                                   https://www.nexusmods.com/skyrimspecialedition/mods/30174
 285. Female Hands Redone                                                        https://www.nexusmods.com/skyrimspecialedition/mods/90713
@@ -620,7 +620,8 @@ check out and see if I really want them in a modlist or not.
 313. FRECKLES - Face and Body Features                                          https://www.nexusmods.com/skyrimspecialedition/mods/84982
 314. Lovely Makeup - Racemenu Overlays                                          https://www.nexusmods.com/skyrimspecialedition/mods/94271
 
-#### Bodyslides to work into pesonal distro
+#### Bodyslides
+Want to see if I want to include these in my personal OBody Distribution.
 315. AW The Warrior - The Mage - The Thief                                      https://www.nexusmods.com/skyrimspecialedition/mods/116254
 316. Dibella's Anarchy                                                          https://www.nexusmods.com/skyrimspecialedition/mods/83358
 317. Dibella's Elegance                                                         https://www.nexusmods.com/skyrimspecialedition/mods/82306
@@ -658,9 +659,9 @@ check out and see if I really want them in a modlist or not.
 343. Wild Side - A SkyChild Add-On                                              https://www.nexusmods.com/skyrimspecialedition/mods/135462
 344. SkyChild Tweak - Body l Clothes l Head Size                                https://www.nexusmods.com/skyrimspecialedition/mods/146975
 345. Savage Offspring SKSE                                                      https://www.nexusmods.com/skyrimspecialedition/mods/49377
-346. Slayable Offspring SKSE                                                    https://www.nexusmods.com/skyrimspecialedition/mods/46826 (because they called me skeever breath too many times...)
+346. Slayable Offspring SKSE                                                    https://www.nexusmods.com/skyrimspecialedition/mods/46826
 
-#### NPCS - Misc
+#### NPC Misc Stuff
 347. Ashihito Artificial Arm                                                    https://www.nexusmods.com/skyrimspecialedition/mods/81708
 348. Bosmer NPCs have antlers                                                   https://www.nexusmods.com/skyrimspecialedition/mods/33349
 349. Diverse NPC Heights - SkyPatcher                                           https://www.nexusmods.com/skyrimspecialedition/mods/141006
@@ -722,7 +723,7 @@ check out and see if I really want them in a modlist or not.
 #### Retextures
 394. Saints and Seducers Retexture SE                                           https://www.nexusmods.com/skyrimspecialedition/mods/151116
 
-#### Misc (I have no idea)
+#### Misc (I have no idea where to put these...)
 395. Adventurer's Start - An Alternate Perspective Addon                        https://www.nexusmods.com/skyrimspecialedition/mods/145599
 396. AI Overhaul SSE                                                            https://www.nexusmods.com/skyrimspecialedition/mods/21654
 397. Auto Speak                                                                 https://www.nexusmods.com/skyrimspecialedition/mods/148455
@@ -740,8 +741,9 @@ check out and see if I really want them in a modlist or not.
 407. Rustic Repose - A Common Bed Replacer                                      https://www.nexusmods.com/skyrimspecialedition/mods/138889
 408. Sleipnir Beds - An Upper Class Bed Replacer                                https://www.nexusmods.com/skyrimspecialedition/mods/143168
 
-
-#### Followers (not all will make it, perfer packs over singles)
+#### Followers
+Not all of these followers will be added. I prefer follower packs than a single individual follower.  
+Need to find some good generic basic male followers.
 409. Aliana - Follower or Ashe Replacer                                         https://www.nexusmods.com/skyrimspecialedition/mods/147638
 410. Alice Mistress of the Blazing Death                                        https://www.nexusmods.com/skyrimspecialedition/mods/15345
 411. Altmer Sisters                                                             https://www.nexusmods.com/skyrimspecialedition/mods/17463
@@ -1003,5 +1005,4 @@ check out and see if I really want them in a modlist or not.
 665. The Mystic - Brelyna Maryon Replacer                                       https://www.nexusmods.com/skyrimspecialedition/mods/119677
 666. Leyrur Daelkhun - WeelBones' Luaffyn Replacer                              https://www.nexusmods.com/skyrimspecialedition/mods/127632
 667. Saadia - WeelBones' Overhaul                                               https://www.nexusmods.com/skyrimspecialedition/mods/153284
-
 
