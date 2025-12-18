@@ -586,7 +586,7 @@ This is especially true for the follower section. Just want to populate the worl
 282. Addidi PBR Textures                                                        https://next.nexusmods.com/profile/Addidi/mods?gameId=1704
 
 #### Body
-This is ordered for a clean setup.
+This is ordered for a clean setup.  
 283. Caliente's Beautiful Bodies Enhancer -CBBE-                                https://www.nexusmods.com/skyrimspecialedition/mods/198
 284. CBBE 3BA                                                                   https://www.nexusmods.com/skyrimspecialedition/mods/30174
 285. Female Hands Redone                                                        https://www.nexusmods.com/skyrimspecialedition/mods/90713
@@ -621,7 +621,7 @@ This is ordered for a clean setup.
 314. Lovely Makeup - Racemenu Overlays                                          https://www.nexusmods.com/skyrimspecialedition/mods/94271
 
 #### Bodyslides
-Want to see if I want to include these in my personal OBody Distribution.
+Want to see if I want to include these in my personal OBody Distribution.  
 315. AW The Warrior - The Mage - The Thief                                      https://www.nexusmods.com/skyrimspecialedition/mods/116254
 316. Dibella's Anarchy                                                          https://www.nexusmods.com/skyrimspecialedition/mods/83358
 317. Dibella's Elegance                                                         https://www.nexusmods.com/skyrimspecialedition/mods/82306
@@ -743,7 +743,7 @@ Want to see if I want to include these in my personal OBody Distribution.
 
 #### Followers
 Not all of these followers will be added. I prefer follower packs than a single individual follower.  
-Need to find some good generic basic male followers.
+Need to find some good generic basic male followers.  
 409. Aliana - Follower or Ashe Replacer                                         https://www.nexusmods.com/skyrimspecialedition/mods/147638
 410. Alice Mistress of the Blazing Death                                        https://www.nexusmods.com/skyrimspecialedition/mods/15345
 411. Altmer Sisters                                                             https://www.nexusmods.com/skyrimspecialedition/mods/17463
@@ -1005,4 +1005,5 @@ Need to find some good generic basic male followers.
 665. The Mystic - Brelyna Maryon Replacer                                       https://www.nexusmods.com/skyrimspecialedition/mods/119677
 666. Leyrur Daelkhun - WeelBones' Luaffyn Replacer                              https://www.nexusmods.com/skyrimspecialedition/mods/127632
 667. Saadia - WeelBones' Overhaul                                               https://www.nexusmods.com/skyrimspecialedition/mods/153284
+
 
