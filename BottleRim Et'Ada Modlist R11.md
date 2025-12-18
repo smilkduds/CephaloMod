@@ -350,7 +350,7 @@ This is especially true for the follower section. Just want to populate the worl
 58. Unique Locations - Riverwood Forest                                         https://www.nexusmods.com/skyrimspecialedition/mods/9258
 
 #### Magic
-59. Ancient Death Magic
+59. Ancient Death Magic                                                         https://www.nexusmods.com/skyrimspecialedition/mods/158312
 60. Drain Magic VFX Edit                                                        https://www.nexusmods.com/skyrimspecialedition/mods/164598
 61. Dynamic Random Spell Idle                                                   https://www.nexusmods.com/skyrimspecialedition/mods/77025
 62. Frozen Electrocuted Combustion                                              https://www.nexusmods.com/skyrimspecialedition/mods/3532
@@ -1005,6 +1005,7 @@ Need to find some good generic basic male followers.
 665. The Mystic - Brelyna Maryon Replacer                                       https://www.nexusmods.com/skyrimspecialedition/mods/119677
 666. Leyrur Daelkhun - WeelBones' Luaffyn Replacer                              https://www.nexusmods.com/skyrimspecialedition/mods/127632
 667. Saadia - WeelBones' Overhaul                                               https://www.nexusmods.com/skyrimspecialedition/mods/153284
+
 
 
 
