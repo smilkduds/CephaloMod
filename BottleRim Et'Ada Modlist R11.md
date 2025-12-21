@@ -1009,10 +1009,15 @@ Need to find some good generic basic male followers.
 666. Leyrur Daelkhun - WeelBones' Luaffyn Replacer                              https://www.nexusmods.com/skyrimspecialedition/mods/127632
 667. Saadia - WeelBones' Overhaul                                               https://www.nexusmods.com/skyrimspecialedition/mods/153284
 
+#### Things I Forgot and Dont Want to Renumber
+668. Tamaska Werewolf (Male and Female Werewolf Mesh Replacer)                  https://www.nexusmods.com/skyrimspecialedition/mods/25910
+
+
 ---
 
 ## SUGGESTIONS
 I am alway up for suggestions, hit me up on Discord.
+
 
 
 
