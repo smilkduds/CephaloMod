@@ -1,11 +1,13 @@
+```
+#  --- MODLIST NAME v#.#.# ---
 
-# 0.0   CORE MODS
+# 0.0     - CORE MODS -
 ## 0.1      Early Loaders
 ## 0.2      Modders Resources
 ## 0.3      Utilities + Core Fixes
 ## 0.4      DynDoLOD + Grass Cache Gen
 
-# 1.0   USER INTERFACE
+# 1.0     - USER INTERFACE -
 ## 1.1      Console
 ## 1.2      UI Base
 ## 1.3      UI Additions
@@ -15,14 +17,14 @@
 ## 1.8      Camera
 ## 1.9      Controls
 
-# 2.0   AUDIO
+# 2.0     - AUDIO -
 ## 2.1      Audio Frameworks
 ## 2.2      Base Audio Packs
 ## 2.3      Sound Effects
 ## 2.4      Creature + Ambient Audio
 ## 2.5      Music
 
-# 3.0   MESHES + TEXTURES
+# 3.0     - MESHES + TEXTURES -
 ## 3.1      Base Meshes + Textures
 ## 3.2      Food + Ingredients
 ## 3.3      Potions + Consumables
@@ -31,7 +33,7 @@
 ## 3.6      Misc Items
 ## 3.7      Books + Scrolls
 
-# 4.0   ENVIRONMENT + SKY
+# 4.0     - ENVIRONMENT + SKY -
 ## 4.1      Landscape
 ## 4.2      Mountains + Rocks
 ## 4.3      Mines + Caves + Dungeons
@@ -49,7 +51,7 @@
 ## 4.6.2        Fire
 ## 4.6.3        Other VFX
 
-# 5.0   CITIES + TOWNS + VILLAGES
+# 5.0     - CITIES + TOWNS + VILLAGES -
 ## 5.1      Genreal Overhauls
 ## 5.2      Cities
 ## 5.2.1        City - Solitude
@@ -83,7 +85,7 @@
 ## 5.6.3        New - Villages
 ## 5.6.4        New - Settlements
 
-# 6.0   WORLDSPACES + LOCATIONS
+# 6.0     - WORLDSPACES + LOCATIONS -
 ## 6.1      New + Edited Locations
 ## 6.1.1        New Dungeons
 ## 6.1.2        New Player Homes
@@ -92,11 +94,11 @@
 ## 6.2      New Worldspaces
 ## 6.2.1        New Worldspace - <name>
 
-# 7.0   LATE GRAPHICS
+# 7.0     - LATE GRAPHICS -
 ## 7.1      Lighting
 ## 7.2      Late Meshes + Textures
 
-# 8.0   GAMEPLAY
+# 8.0     - GAMEPLAY -
 ## 8.1      Perks + Races + Birthsigns + Classes
 ## 8.2      Magic + Shouts
 ## 8.3      Crafting + Enchanting + Alchemy
@@ -105,7 +107,7 @@
 ## 8.6      Immersion
 ## 8.7      Dialogue
 
-# 9.0   QUESTS
+# 9.0     - QUESTS -
 ## 9.1      Vanilla Quests
 ## 9.2      Dawnguard Quests
 ## 9.3      Dragonborn Quests
@@ -120,7 +122,7 @@
 ## 9.5      Creation Club Quests
 ## 9.6      New Quests
 
-# 10.0  PLAYER + NPCS
+# 10.0    - PLAYER + NPCS -
 ## 10.1     Skeleton + Physics
 ## 10.2     Character Customization
 ## 10.2.1       Bodies + Heads + Facial Features
@@ -140,14 +142,14 @@
 ## 10.5.4       Interactions
 ## 10.5.5       Follower AI
 
-# 11.0  CREATURES + ENEMIES
+# 11.0    - CREATURES + ENEMIES -
 ## 11.1     Vampires + Werewolves
 ## 11.2     Dragons
 ## 11.3     Animals
 ## 11.4     Enemy Overhauls
 ## 11.5     New Creatures
 
-# 12.0  WEAPONS + ARMOR
+# 12.0    - WEAPONS + ARMOR -
 ## 12.1     Weapon Replacers
 ## 12.2     Armor Replacers
 ## 12.3     New Weapons
@@ -155,7 +157,7 @@
 ## 12.5     Clothing + Misc Replacers
 ## 12.6     Jewelry
 
-# 13.0  COMBAT + ANIMATIONS
+# 13.0    - COMBAT + ANIMATIONS -
 ## 13.1     Combat
 ## 13.1.1       Base Combat Overhauls
 ## 13.1.2       Blocking + Parrying
@@ -171,30 +173,31 @@
 ## 13.2.7       Facial Animations
 ## 13.2.8       Armor Condition Animations
 
-# 14.0  GENERIC + LATE LOADERS
+# 14.0    - GENERIC + LATE LOADERS -
 ## 14.1     SPID + Skypatcher Distributions
 ## 14.2     Patches + Bug / Script Fixes
 ## 14.3     EFPS + Performance
 ## 14.4     Late Loaders
 ## 14.5     Settings + MCM
 
-# 15.0  COMMUNITY SHADERS
+# 15.0    - COMMUNITY SHADERS -
 ## 15.1     Community Shaders
 ## 15.2     Post Processing
 
 # 16.0  PATCHES
 
-# 17.0  MISC TOOLS & OUTPUTS
-- Grass Cache
-- Synthesis Output
-- Community Shaders Settings
-- MCM Output
-- SKSE Output
-- Pandora Output
-- Bodyslide Output
-- PGPatcher Output
-- XLODGen Output
-- TexGen Output
-- DynDoLOD Output
+# 17.0  MISC TOOLS + OUTPUTS
+  - Grass Cache
+  - Synthesis Output
+  - Community Shaders Settings
+  - MCM Output
+  - SKSE Output
+  - Pandora Output
+  - Bodyslide Output
+  - PGPatcher Output
+  - XLODGen Output
+  - TexGen Output
+  - DynDoLOD Output
 
 # 99.0  -- RULE 11 MODIFICATIONS --
+```
