@@ -184,9 +184,9 @@
 ## 15.1     Community Shaders
 ## 15.2     Post Processing
 
-# 16.0  PATCHES
+# 16.0    - PATCHES -
 
-# 17.0  MISC TOOLS + OUTPUTS
+# 17.0    - MISC TOOLS + OUTPUTS -
   - Grass Cache
   - Synthesis Output
   - Community Shaders Settings
