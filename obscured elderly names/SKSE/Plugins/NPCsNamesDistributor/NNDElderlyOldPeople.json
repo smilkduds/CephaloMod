@@ -1,0 +1,16 @@
+{
+    "First": {
+        "Female": {
+            "Names": [
+                "Elderly Female"
+            ]
+        },
+        "Male": {
+            "Names": [
+                "Elderly Male"
+            ]
+        }
+    },
+    "Shortened": ["First"],
+    "Scopes": ["Obscuring"]
+}

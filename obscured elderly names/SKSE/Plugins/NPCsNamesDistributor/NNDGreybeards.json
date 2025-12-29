@@ -1,0 +1,18 @@
+ {
+    "First": {
+        "Female": {
+            "Names": [
+                "Greybeard"
+            ]
+        },
+        "Male": {
+            "Names": [
+                "Greybeard"
+            ]
+        }
+    },
+    "Shortened": ["First"],
+    "Priority": "Individual",
+    "Scopes": ["Obscuring"]
+
+}

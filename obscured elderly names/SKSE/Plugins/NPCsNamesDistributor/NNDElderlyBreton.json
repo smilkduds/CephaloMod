@@ -1,0 +1,17 @@
+{
+    "First": {
+        "Female": {
+            "Names": [
+                "Elderly Female Breton"
+            ]
+        },
+        "Male": {
+            "Names": [
+                "Elderly Male Breton"
+            ]
+        }
+    },
+    "Shortened": ["First"],
+    "Priority": "Individual",
+    "Scopes": ["Obscuring"]
+}
